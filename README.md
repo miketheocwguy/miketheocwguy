@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**miketheocwguy/miketheocwguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Work experience:
 
-Here are some ideas to get you started:
+(Work title). [Montreal. Fall & Winter 2023]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on:
+
+
+:wrench: I’m currently improving:
+
+My knowledge of Software Processes by developing an application following Agile methodology.
+
+📫 How to reach me: m_arlesn@live.concordia.ca | www.linkedin.com/in/michael-charles-nolan
